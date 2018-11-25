@@ -1,0 +1,2 @@
+model_checkpoint_path: "imdb_2500_con_sigmoid_lvae.pkt"
+all_model_checkpoint_paths: "imdb_2500_con_sigmoid_lvae.pkt"
